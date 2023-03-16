@@ -1,4 +1,4 @@
-# shesha-docs
+# Shesha Documentation
 Documentation for shesha related components and tools.
 
 [![docs](https://readthedocs.org/projects/shesha-docs/badge/?version=latest)](https://shesha-docs.readthedocs.io/en/latest/?badge=latest)
